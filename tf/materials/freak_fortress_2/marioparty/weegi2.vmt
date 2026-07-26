@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "freak_fortress_2\marioparty\weegi2"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}
+
+
+
