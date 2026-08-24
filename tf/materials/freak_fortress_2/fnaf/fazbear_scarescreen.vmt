@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/fnaf/fazbear_scarescreen"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "12"
+		 } 
+	} 
+}

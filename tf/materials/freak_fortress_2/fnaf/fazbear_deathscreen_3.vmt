@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/fnaf/fazbear_deathscreen_3"
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "24"
+		 } 
+	} 
+}
