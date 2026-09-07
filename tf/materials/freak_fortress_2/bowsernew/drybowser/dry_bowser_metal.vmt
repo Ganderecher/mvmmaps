@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2\bowsernew\drybowser\Dry_Bowser_Metal"
+	"$bumpmap"     "freak_fortress_2\bowsernew\drybowser\Dry_Bowser_Metal_normal"
+	"$halflambert" "1"    
+
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "0.7"
+	"$phongfresnelranges"	"[.3 5 75]"
+              
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+	"$rimmask" "1"
+}
+

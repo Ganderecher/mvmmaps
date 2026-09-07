@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture"	"freak_fortress_2\bowsernew\goomba\pupil"
+	"$iris" 		"freak_fortress_2\bowsernew\goomba\eyeball"
+	"$halflambert"	"1"
+}

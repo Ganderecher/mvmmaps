@@ -1,0 +1,6 @@
+"Eyes"
+{
+                "$basetexture"	"models/RatchetMario_Models/MarioandSonic/Dry_Bowser/eyeball_r"
+	"$iris" 		"models/RatchetMario_Models/MarioandSonic/Dry_Bowser/Dry_Bowser_eyeball_blue"
+	"$halflambert"	"1"
+}

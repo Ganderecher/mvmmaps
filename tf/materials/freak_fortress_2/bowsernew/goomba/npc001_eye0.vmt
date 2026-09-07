@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"freak_fortress_2\bowsernew\goomba\npc001_eye0"
+	"$bumpmap"				"freak_fortress_2\bowsernew\goomba\phong"
+	"$halflambert"			"1"
+
+	"$phong"				"1"
+	"$phongalbedotint"		"1"
+	"$phongboost"			"7"
+	"$phongexponent"		"15"
+	"$phongexponenttexture"	"freak_fortress_2\bowsernew\goomba\albedo"
+	"$phongfresnelranges"	"[.1 .5 .75]"
+
+	"$rimlight"				"1"
+	"$rimlightboost"		"2"
+}
